@@ -21,7 +21,7 @@
     "url": "https://github.com/No9/harmon/issues"
   },
   "dependencies": {
-    "trumpet": "1.7.0"
+    "node-trumpet2": "2.0.2"
   },
   "devDependencies": {
     "colors": "0.6.2",

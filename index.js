@@ -1,4 +1,4 @@
-var trumpet = require('trumpet');
+var trumpet = require('node-trumpet2');
 var zlib = require('zlib');
 
 module.exports = function harmonBinary(reqSelectors, resSelectors, htmlOnly) {
